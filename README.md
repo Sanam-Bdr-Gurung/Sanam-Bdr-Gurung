@@ -25,7 +25,6 @@ I am a tech savant, software engineer specializing in Mobile App Development.
 - 🔭 I’m currently working on Binaural beats app named goodVibes.
 - 🌱 I’m currently learning nestJs
 - 👯 I’m looking to collaborate on developing value-based products.
-- 🤔 I’m looking for help with fundings.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - ⚡ Fun fact: Live & Enjoy every seconds while you are here.
 
