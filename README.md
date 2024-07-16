@@ -1,7 +1,10 @@
 ### Hi there 👋, I am Sanam Gurung 
 
-I am a tech savant, software engineer specializing in Mobile App Development.
- As a software engineer, I like to learn about new stuffs in my domain and help other learn and understand them as well. Professional experience with the technologies listed in the toolbox below.
+Mobile apps are my playground! I create innovative and high-performance apps that not only delight users but also drive real results. In my last project, I helped a music streaming app increase user engagement by 32%, turning a great idea into a revenue powerhouse.
+
+My passion for mobile development stems from the potential it holds to transform experiences and solve problems. I'm constantly learning and exploring new technologies to push the boundaries of what's possible in the tech industry. 
+
+Let's chat and see how I can help your app idea take flight! ✈️ #MobileAppDevelopment #TechInnovation
 
 ---
 
