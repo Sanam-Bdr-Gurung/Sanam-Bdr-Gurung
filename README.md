@@ -27,9 +27,9 @@ Let's chat and see how I can help your app idea take flight! ✈️ #MobileAppDe
 
 
 - 🔭 I’m currently working on Binaural beats app named goodVibes.
-- 🌱 I’m currently learning nestJs
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on developing value-based products.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: Live & Enjoy every seconds while you are here.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sanam-Bdr-Gurung&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
